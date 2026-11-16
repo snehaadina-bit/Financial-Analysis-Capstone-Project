@@ -14,4 +14,6 @@ This Financial Data Analysis dashboard consists of 4 sections, giving details ab
 
 3) Data Source: This is a project given by the institute, so the dataset has been provided by them.
 4) Executive overview: https://github.com/snehaadina-bit/Financial-Analysis-Capstone-Project/blob/main/Executive%20overview.png
+5) Revenue Performance : https://github.com/snehaadina-bit/Financial-Analysis-Capstone-Project/blob/main/Revenue%20Performance.png
+6) Customers and Vendors :
 
