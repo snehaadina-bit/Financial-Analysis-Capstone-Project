@@ -13,4 +13,5 @@ This Financial Data Analysis dashboard consists of 4 sections, giving details ab
 * File Format - .pbix for development, .png for dashboard preview.
 
 3) Data Source: This is a project given by the institute, so the dataset has been provided by them.
+4) Executive overview.png
 
