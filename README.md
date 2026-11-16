@@ -16,5 +16,5 @@ This Financial Data Analysis dashboard consists of 4 sections, giving details ab
 4) Executive overview: https://github.com/snehaadina-bit/Financial-Analysis-Capstone-Project/blob/main/Executive%20overview.png
 5) Revenue Performance : https://github.com/snehaadina-bit/Financial-Analysis-Capstone-Project/blob/main/Revenue%20Performance.png
 6) Customers and Vendors : https://github.com/snehaadina-bit/Financial-Analysis-Capstone-Project/blob/main/Customers%20%26%20Vendors.png
-7) Workforce Efficiency : 
+7) Workforce Efficiency : https://github.com/snehaadina-bit/Financial-Analysis-Capstone-Project/blob/main/Workforce%20Efficiency.png
 
